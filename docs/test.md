@@ -1,6 +1,6 @@
 ---
 title: test
-layout: 1
+layout: default
 ---
 
 # Just For Test
